@@ -1,0 +1,22 @@
+{
+  "name": "node-base-dev",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/core-toolkit/node-base-dev.git"
+  },
+  "author": "Alexander Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/core-toolkit/node-base-dev/issues"
+  },
+  "homepage": "https://github.com/core-toolkit/node-base-dev#readme",
+  "dependencies": {
+    "jest": "^27.5.0"
+  }
+}
