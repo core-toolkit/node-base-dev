@@ -1,7 +1,7 @@
 {
-  "name": "node-base-dev",
+  "name": "@core-toolkit/node-base-dev",
   "version": "0.0.1",
-  "description": "",
+  "description": "Development plugin for node-base",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
